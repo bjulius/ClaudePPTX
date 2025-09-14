@@ -15,7 +15,7 @@ PowerPoint presentations and templates created with Claude
 
 ### Media
 - **NotebookLM Mind Map.png** - Visual mind map of MCP concepts
-- **NotebookLM - MCP__AI_s_Double-Edged_Sword.mp4** - Video presentation (26MB - needs manual upload via Git LFS or web interface)
+- **NotebookLM - MCP 720p.mp4** - Video presentation (26MB - needs manual upload via Git LFS or web interface)
 
 ## About
 
@@ -25,24 +25,16 @@ This repository contains professional PowerPoint presentations created using Cla
 - Professional business presentations
 
 ## Technologies Used
+- Google Deep Research for detailed research
 - Claude AI for content generation
 - PptxGenJS for programmatic PowerPoint creation
 - Markdown for documentation
-- Professional design principles (IBCS compliance, corporate aesthetics)
-
-## Note on Large Files
-
-The video file `NotebookLM - MCP__AI_s_Double-Edged_Sword.mp4` (26MB) exceeds GitHub API upload limits. To add this file:
-1. Clone this repository locally
-2. Use Git LFS: `git lfs track "*.mp4"`
-3. Add and commit the video file
-4. Push to GitHub
-
-Alternatively, upload directly through the GitHub web interface.
+- Canva for Powerpoint template generation
+- Professional design principles
 
 ## Author
 
-Inspectah DAX
+Inspectah DAX (Brian Julius)
 
 ## Created
 
